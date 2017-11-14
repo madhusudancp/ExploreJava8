@@ -29,7 +29,8 @@ public class DefaultMethodsDemo {
 		};
 		
 		System.out.println(formula.calculate(100));     
-		System.out.println(formula.sqrt(16)); 
+		System.out.println(formula.sqrt(16));
+		System.out.println(formula.sqrt(25));
 	}
 	
 	
